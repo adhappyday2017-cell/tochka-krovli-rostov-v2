@@ -1,0 +1,1 @@
+var e={whatsapp:`https://wa.me/79889995161`,telegram:`https://t.me/+79889995161`,max:`https://max.ru/u/f9LHodD0cOL0Cg8O7gM0Mbww0fOYgDrtGz38TVjrEl0EaecwEvmD1cSEyRs`,vk:`https://vk.com/tkrovli`};export{e as t};
