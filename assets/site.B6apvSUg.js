@@ -1,0 +1,1 @@
+var e={max:`https://max.ru/u/f9LHodD0cOL0Cg8O7gM0Mbww0fOYgDrtGz38TVjrEl0EaecwEvmD1cSEyRs`,whatsapp:`https://wa.me/79889995161`};export{e as t};
