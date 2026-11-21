@@ -1,0 +1,1 @@
+var e={label:`+7 988 999-51-61`,href:`tel:+79889995161`},t={max:`https://max.ru/u/f9LHodD0cOL0Cg8O7gM0Mbww0fOYgDrtGz38TVjrEl0EaecwEvmD1cSEyRs`,whatsapp:``},n=`2026-11-21`;export{t as n,e as r,n as t};
